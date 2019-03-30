@@ -1,0 +1,1 @@
+ This is Fricki's second git project!
